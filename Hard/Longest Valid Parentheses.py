@@ -87,8 +87,3 @@ class Solution:
         else:
             return False
 
-
-
-
-s = Solution()
-print(s.isMatch("((("))

@@ -22,4 +22,7 @@ class Solution:
             nums[i] = temp
 
 s = Solution()
-print(s.permute([1,2,3]))
+print(s.permute([1,2,3,4,5,6,7,8,9,10]))
+
+1011123456789
+9876543210111

@@ -30,3 +30,6 @@ class Solution:
 
 s = Solution()
 print(s.merge([[1,3],[2,6],[8,10],[15,18]]))
+
+a = ' '
+print(a.split(' '))
